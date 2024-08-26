@@ -1,0 +1,11 @@
+EmployeeManagementSystem/
+├── src/
+│   ├── main/
+│   │   ├── java/com/example/employeemanagementsystem/
+│   │   │   └── EmployeeManagementSystemApplication.java
+│   │   └── resources/
+│   │       ├── application.properties
+│   └── test/
+│       └── java/com/example/employeemanagementsystem/
+│           └── EmployeeManagementSystemApplicationTests.java
+├── pom.xml

@@ -1,0 +1,15 @@
+LibraryManagement
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── library
+│   │   │           └── App.java
+│   │   └── resources
+│   └── test
+│       └── java
+│           └── com
+│               └── library
+│                   └── AppTest.java
+├── pom.xml
+└── README.md
